@@ -41,7 +41,3 @@ We investigate whether lunar phase durations are evenly distributed and explore 
 
 ## 📖 Reference
 Fred Espenak. *Catalog of Moon Phases*. Retrieved from [Astropixels](https://astropixels.com/ephemeris/phasescat/phasescat.html).
-
-
-## 📖 Reference
-Fred Espenak. *Catalog of Moon Phases*. Retrieved from [Astropixels](https://astropixels.com/ephemeris/phasescat/phasescat.html).
