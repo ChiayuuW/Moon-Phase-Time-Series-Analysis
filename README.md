@@ -33,11 +33,11 @@ We investigate whether lunar phase durations are evenly distributed and explore 
 
 ---
 
-## 👥 Authors
+## Authors
 - Chia-Yu Wei  
 - Ming-Wei Kuo  
 
 ---
 
-## 📖 Reference
+## Reference
 Fred Espenak. *Catalog of Moon Phases*. Retrieved from [Astropixels](https://astropixels.com/ephemeris/phasescat/phasescat.html).
